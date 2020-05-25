@@ -1,0 +1,13 @@
+{
+  "name": "data-structure",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "./src/index.js",
+  "scripts": {
+    "format:src": "prettier --write ./src/*",
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
